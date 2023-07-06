@@ -1,0 +1,14 @@
+.app{
+    background: #323232;
+    color: white;
+}
+
+/* navbar css  */
+.navbar{
+    background-color: rgb(86, 86, 86);
+    padding: 25px;
+    border: 1px solid orange;
+}
+.max-content{
+    height: max-content
+}
